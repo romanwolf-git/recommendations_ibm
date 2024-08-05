@@ -23,6 +23,13 @@ matplotlib
 
 You'll also need to have the project-specific `project_tests.py` file in the same directory.
 
+## Usage
+1. clone the repo
+   ```
+   git clone https://github.com/romanwolf-git/recommendations_ibm.git
+   ```
+2. Run the notebook cells sequentially to perform data cleaning, analysis, and visualisation.
+
 ## About the Data
 
 The project uses two main datasets:
