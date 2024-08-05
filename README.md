@@ -34,7 +34,7 @@ You'll also need to have the project-specific `project_tests.py` file in the sam
 
 The project uses two main datasets:
 
-1. `user-item-interactions.csv`: Contains user interactions with articles.
+1. `[user-item-interactions.csv](https://github.com/romanwolf-git/recommendations_ibm/blob/main/data/articles_community.csv)`: Contains user interactions with articles.
 2. `articles_community.csv`: Contains information about the articles.
 
 ## Methods
